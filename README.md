@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/18597" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://discord.com/users/usom" target="_blank">
+  <a href="https://discord.com/users/1231689438652792942" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
