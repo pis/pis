@@ -10,7 +10,7 @@
 
 ## 📌 About me
 - 🎯 I am a web developer
-- 🖥️ I know Python, HTML, CSS, JavaScript and MySQL
+- 🖥️ I know Python, HTML, CSS, Java, JavaScript and MySQL
 
 ## 📫 Communication
 <p align="left">
