@@ -21,5 +21,9 @@
     <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 </p>
+<a href="https://api.whatsapp.com/send/?phone=%2B998996136770&text&type=phone_number&app_absent=0" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  </a>
+</p>
 
 ⭐ **GitHub profilimi inceleyin!**
