@@ -1,4 +1,4 @@
-<h1 align="center">Merhaba, ben Poyraz 👋</h1>
+<h1 align="center">Hello, I am Poyraz 👋</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -8,11 +8,11 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
 
-## 📌 Hakkımda
-- 🎯 Web geliştiricisiyim
-- 🖥️ Python, HTML, CSS, JavaScript ve MySQL biliyorum
+## 📌 About me
+- 🎯 I am a web developer
+- 🖥️ I know Python, HTML, CSS, JavaScript and MySQL
 
-## 📫 Bana ulaşın
+## 📫 Communication
 <p align="left">
   <a href="https://www.instagram.com/18597" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white">
@@ -24,5 +24,3 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </p>
-
-⭐ **GitHub profilimi inceleyin!**
