@@ -25,4 +25,4 @@
   </a>
 </p>
 
-⭐ **[GitHub profilimi inceleyin!](#)**
+⭐ **GitHub profilimi inceleyin!**
