@@ -11,7 +11,6 @@
 ## 📌 Hakkımda
 - 🎯 Web geliştiricisiyim
 - 🖥️ Python, HTML, CSS, JavaScript ve MySQL biliyorum
-- 🌱 Yeni teknolojiler öğrenmeyi seviyorum
 
 ## 📫 Bana ulaşın
 <p align="left">
